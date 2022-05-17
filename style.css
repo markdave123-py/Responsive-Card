@@ -33,7 +33,6 @@ h1{
     padding-right: 110px;
     background-color: hsl(244, 38%, 16%);
     width: 380px;
-    height: 322px;
     border-radius: 5px 0 0 5px;
 }
 
@@ -51,15 +50,15 @@ span{
     .container{
         display: flex;
         flex-direction: column-reverse;
-        margin-left: 50px;
+        margin-left: 70px;
         margin-top: 10px;
 
     }
     .container1{
-        width: 200px;
-        padding: 10px 10px 0 10px;
+        width: 210px;
+        padding: 10px 0 0 10px;
         border-radius: 0 0 5px 5px;
-        margin-bottom: 30px;
+        margin-bottom: 20px;
         height: 390px;
         font-size: 0.8rem;
     }
