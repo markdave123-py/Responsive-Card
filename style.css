@@ -61,12 +61,13 @@ span{
         margin-bottom: 20px;
         height: 390px;
         font-size: 0.8rem;
+        
     }
     img{
         width: 220px;
         position: relative;
         top: 4px;
-        right: 18px;
+        padding-right: 30px;
         border-radius: 5px 5px 0 0;
     }
     body{
